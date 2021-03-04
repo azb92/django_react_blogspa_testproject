@@ -1,0 +1,6 @@
+/blog-ui/node_modules
+/blog-ui/.env
+/blog-ui/.eslintcache
+
+/backend/db.sqlite3
+/backend/blog/migrations/0001_initial.py
